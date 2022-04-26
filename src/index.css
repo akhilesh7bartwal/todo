@@ -1,0 +1,32 @@
+a{
+  text-decoration: none;
+  color:black;
+}
+.main-div{
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+
+h1{
+  color: white;
+}
+
+input{
+  text-align: center;
+  height: 30px;
+  top: 10px;
+  background: transparent;
+  width: 60%;
+}
+
+button{
+  min-height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  margin-left: 10px;
+  box-shadow: 5px 5px 15px -5px ;
+  border-radius: 50%;
+}
